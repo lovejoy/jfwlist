@@ -1,0 +1,4 @@
+! JFWList is a GFWLIST for the China’s largest online retailer
+
+||icloud.com
+||taobao.com
